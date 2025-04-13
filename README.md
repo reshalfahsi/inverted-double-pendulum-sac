@@ -35,15 +35,15 @@ Play around with [this notebook](https://github.com/reshalfahsi/inverted-double-
 
 <table>
     <tr>
-        <td> 
+        <td align="center"> 
             <img src="./assets/episode_0.gif">
             Episode 0
         </td>
-        <td> 
+        <td align="center"> 
             <img src="./assets/episode_400.gif">
             Episode 400
         </td>
-        <td> 
+        <td align="center"> 
             <img src="./assets/final_episode.gif">
             Final Episode
         </td>
