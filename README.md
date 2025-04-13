@@ -22,7 +22,7 @@ Play around with [this notebook](https://github.com/reshalfahsi/inverted-double-
 ## Reward Curve
 
 
-<p align="center"> <img src="https://github.com/reshalfahsi/inverted-double-pendulum-sac/blob/master/assets/reward_curve.png" alt="reward_curve" > <br /> The green line denotes rewards and the blue line indicates the best moving average. The best-moving average is gathered by applying an arithmetic mean to the reward that is better than the current best-moving average. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/inverted-double-pendulum-sac/blob/master/assets/reward_curve.png" alt="reward_curve" > <br /> The green line denotes rewards and the blue line indicates the best moving average. The best-moving average is gathered by applying an arithmetic mean to the reward that is better than the current best-moving average. This is used to decide whether the episode is worth keeping or not. </p>
 
 
 ## Qualitative Result
